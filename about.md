@@ -41,7 +41,7 @@ title: About
             <th>学历</th>
             <td align="center">本科</td>
             <th>研发方向</th>
-            <td align="center" colspan="2">生物神经学与深度学习算法的相互研发</td>
+            <td align="center" colspan="2">生物神经学与深度学习算法的交叉研究</td>
         </tr>
         <tr height="40">
             <th>家庭住址</th>
